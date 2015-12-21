@@ -20,3 +20,5 @@ create a new branch is 	quick and simple
 =======
 Create a new brach is quick & simple
 >>>>>>> feature1
+
+20151221   --no-ff
