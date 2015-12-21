@@ -15,4 +15,8 @@
  2015-12-04 add 20:22
 
 2015-12-10 new branch dev
-create a new branch is 	quick AND simple
+<<<<<<< HEAD
+create a new branch is 	quick and simple
+=======
+Create a new brach is quick & simple
+>>>>>>> feature1
