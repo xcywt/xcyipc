@@ -22,3 +22,4 @@ Create a new brach is quick & simple
 >>>>>>> feature1
 
 20151221   --no-ff
+20151222   --stash   test
