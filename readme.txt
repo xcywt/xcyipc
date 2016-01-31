@@ -24,4 +24,6 @@ Create a new brach is quick & simple
 20151221   --no-ff
 20151222   --stash   test
 
-20160103   update  change  hahaha`
+20160103   update  change  hahaha
+
+20160131 add`
